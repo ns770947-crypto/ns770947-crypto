@@ -44,7 +44,7 @@ I'm excited to learn programming and build projects. Every line of code is a ste
 
 ## 📧 Contact
 
-Email: your.email@example.com
+Email: ns770947@gmail.com
 
 ---
 
