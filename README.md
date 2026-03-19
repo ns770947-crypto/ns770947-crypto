@@ -1,4 +1,4 @@
-# Hi, I'm ns770947-crypto 👋
+# Hi, I'm Neeraj  👋
 
 I'm a beginner developer learning **Java, JavaScript, HTML & CSS**!
 
